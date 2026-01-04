@@ -64,21 +64,27 @@ I'm a developer passionate about building efficient and elegant solutions.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xuxu777xu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xuxu777xu&show_icons=true&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xuxu777xu&show_icons=true&theme=default&hide_border=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xuxu777xu&show_icons=true&theme=tokyonight&hide_border=true" />
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuxu777xu&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xuxu777xu&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xuxu777xu&layout=compact&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xuxu777xu&layout=compact&theme=default&hide_border=true" />
+  <img alt="Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xuxu777xu&layout=compact&theme=tokyonight&hide_border=true" />
+</picture>
 
 </div>
 
 ---
 
-## Activity Graph
+## GitHub Trophies
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xuxu777xu&theme=tokyo-night&hide_border=true&bg_color=1a1b27)](https://github.com/xuxu777xu)
+<img src="https://github-profile-trophy.vercel.app/?username=xuxu777xu&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 
 </div>
 
