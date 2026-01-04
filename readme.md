@@ -1,10 +1,10 @@
-## xuxu777xu
+## Hey, I'm xuxu777xu 👋
 
 Android Reverse Engineer | AI Coding Enthusiast
 
-Based in Henan, China
+📍 Based in Henan, China
 
-### Tools & Skills
+### 🛠 Tools & Skills
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -13,6 +13,7 @@ Based in Henan, China
 ![IDA](https://img.shields.io/badge/-IDA%20Pro-4B275F?style=flat-square)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-### Contact
+### 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/xuxu777xu)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:xuxuyp777@gmail.com)
