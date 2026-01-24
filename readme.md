@@ -10,6 +10,7 @@ Android Reverse Engineer | AI Coding Enthusiast
 ![Frida](https://img.shields.io/badge/-Frida-FF6F00?style=flat-square)
 ![IDA](https://img.shields.io/badge/-IDA%20Pro-4B275F?style=flat-square)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
 
 ### 📫 Contact
 
